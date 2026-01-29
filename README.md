@@ -1,4 +1,3 @@
 # welcome
 This is a repo designed to let students freely play around with git commands
-
-Jeffrey Vinod
+ Wobbly wiggle woblly wiggly wobbly wiglly woooo oooohhhh ohhhh
